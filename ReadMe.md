@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1f2937&height=120&section=header&text=Kaleb%20Bastos&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=70&desc=React%20%7C%20Node%20%7C%20MySQL%20%7C%20Python&descAlign=50&descAlignY=40" alt="Kaleb Bastos banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1f2937&height=120&section=header&text=Kaleb%20Bastos&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=70&desc=React.js%20%7C%20Node%20%7C%20MySQL%20%7C%20Python&descAlign=50&descAlignY=40" alt="Kaleb Bastos banner" />
 </p>
 
 <p align="center">
